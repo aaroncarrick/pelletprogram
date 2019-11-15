@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic
 {
-    class ApplicationStart
+    public class ApplicationStart
     {
         public DayOfWeek Today;
         public string message;

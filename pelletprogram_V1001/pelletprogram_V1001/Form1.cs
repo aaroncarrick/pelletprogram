@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BusinessLogic;
 using System.Windows.Forms;
 
 namespace pelletprogram_V1001
@@ -17,6 +18,11 @@ namespace pelletprogram_V1001
             InitializeComponent();
         }
 
-       
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            ApplicationStart b1 = new ApplicationStart();
+
+            this.Text = b1.CheckDay();
+        }
     }
 }
