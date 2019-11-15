@@ -20,9 +20,7 @@ namespace pelletprogram_V1001
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ApplicationStart b1 = new ApplicationStart();
-
-            this.Text = b1.CheckDay();
+            
         }
     }
 }
