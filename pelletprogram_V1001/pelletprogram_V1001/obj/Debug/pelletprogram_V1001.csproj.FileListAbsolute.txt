@@ -1,0 +1,9 @@
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\bin\Debug\pelletprogram_V1001.exe.config
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\bin\Debug\pelletprogram_V1001.exe
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\bin\Debug\pelletprogram_V1001.pdb
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\obj\Debug\pelletprogram_V1001.Form1.resources
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\obj\Debug\pelletprogram_V1001.Properties.Resources.resources
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\obj\Debug\pelletprogram_V1001.csproj.GenerateResource.cache
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\obj\Debug\pelletprogram_V1001.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\obj\Debug\pelletprogram_V1001.exe
+C:\Users\aaron\Documents\pelletprogram\pelletprogram_V1001\pelletprogram_V1001\obj\Debug\pelletprogram_V1001.pdb
