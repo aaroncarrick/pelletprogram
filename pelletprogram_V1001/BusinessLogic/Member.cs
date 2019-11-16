@@ -14,6 +14,6 @@ namespace BusinessLogic
         public bool IsAceRewardsMember { get; set; }
         public DateTime MemberAction { get; set; }
         public string Notice { get; set; }
-        public List<IMember> History { get; set; }
+        public List<string> History { get; set; }
     }
 }
