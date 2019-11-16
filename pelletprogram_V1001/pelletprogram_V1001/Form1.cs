@@ -6,7 +6,6 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BusinessLogic;
 using System.Windows.Forms;
 
 namespace pelletprogram_V1001
