@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BusinessLogic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,12 @@ namespace pelletprogram_V1001
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            CreateNewMember CNM = Factory.MakeMember();
+            CNM.MakeAaron();
+            foreach (var item in CNM.MyList)
+            {
+                listBox1.Items.Add(item);
+            }
         }
     }
 }
